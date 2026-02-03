@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Jeremy",
+                "last": "Martin"
+            },
+            "location": {
+                "street": {
+                    "number": 4510,
+                    "name": "Cedar St"
+                },
+                "city": "Inwood",
+                "state": "Prince Edward Island",
+                "country": "Canada",
+                "postcode": "P5L 1F2",
+                "coordinates": {
+                    "latitude": "-64.9745",
+                    "longitude": "-26.5294"
+                },
+                "timezone": {
+                    "offset": "+8:00",
+                    "description": "Beijing, Perth, Singapore, Hong Kong"
+                }
+            },
+            "email": "jeremy.martin@example.com",
+            "login": {
+                "uuid": "7ad737b8-1030-4148-a78d-41894c82f5e8",
+                "username": "orangesnake371",
+                "password": "jesse",
+                "salt": "gcncgqG6",
+                "md5": "8fb804eac5b4d4905ae40e539474c0d5",
+                "sha1": "fb87665b5f9ef3de404dca9457fcd0cd194b4d2b",
+                "sha256": "5b0406e4e93675207dfe80fc4a94d7e369b7e708ac4faccc260b647e8faae5e2"
+            },
+            "dob": {
+                "date": "1949-03-13T11:07:48.482Z",
+                "age": 76
+            },
+            "registered": {
+                "date": "2013-07-08T07:37:46.676Z",
+                "age": 12
+            },
+            "phone": "H75 E93-8512",
+            "cell": "O51 O14-2961",
+            "id": {
+                "name": "SIN",
+                "value": "011991940"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/61.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
+            },
+            "nat": "CA"
+        }
+    ],
+    "info": {
+        "seed": "66a15c93b8469c8d",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
